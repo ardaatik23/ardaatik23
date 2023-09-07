@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Atik</h1>
-<h3 align="center">Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ayrıca İnönü üniversitesi Hibrid ve Elektrikli Taşıtlar Teknolojisi bölümünden de mezun oldum. Mobil Uygulama, Frontend ve C# alanlarında kendimi geliştiriyorum.</h3>
+<h3 align="center">Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ayrıca İnönü üniversitesi Hibrid ve Elektrikli Taşıtlar Teknolojisi bölümünden de mezun oldum. Mobil Uygulama,Java,JavaSpring, FrontEnd ve C# alanlarında kendimi geliştiriyorum.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
